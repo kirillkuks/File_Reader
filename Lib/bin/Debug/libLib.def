@@ -1,0 +1,15 @@
+EXPORTS
+    CreateFS @1
+    CreateViewer @2
+    DestroyFS @3
+    FindNewFirstStr @4
+    FindStrToPaint @5
+    GetCurVScrlPos @6
+    MaxStrNum @7
+    PopFileInitialize @8
+    PopFileOpenDlg @9
+    ReadFileData @10
+    ShiftUp @11
+    UpdateViewer @12
+    div1 @13
+    div2 @14

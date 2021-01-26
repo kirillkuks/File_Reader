@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611695020 source:d:\kuksenko\gui\fr\lib\main.c
+	"lib.h"
+
+1611694903 d:\kuksenko\gui\fr\lib\lib.h
+	<windows.h>
+	<stdio.h>
+
